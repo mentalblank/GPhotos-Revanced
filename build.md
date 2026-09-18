@@ -1,9 +1,6 @@
-GooglePhotos (arm64-v8a): 7.68.0.884121604  
-GooglePhotos (arm-v7a): 7.68.0.884121604  
-
-Remember to Install [Microg](https://github.com/ReVanced/GmsCore/releases) OR [MicroG-RE](https://github.com/WSTxda/MicroG-RE)  
-Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root the app from Play Store
+GooglePhotos (arm64-v8a) [RookieEnough/De-Vanced]: 7.92.0.977185651  
+GooglePhotos (arm-v7a) [RookieEnough/De-Vanced]: 7.92.0.977185651  
   
-CLI: MorpheApp/morphe-cli-1.9.0-all.jar  
-Patches: RookieEnough/patches-1.0.4.mpp  
-[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.0.4)  
+CLI: MorpheApp/morphe-desktop-1.16.0-all.jar  
+Patches: RookieEnough/patches-1.4.2.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.4.2)  
