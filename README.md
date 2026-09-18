@@ -1,6 +1,6 @@
 # Google Photos - De-Vanced (Auto-Build)
 
-Patched with [De-Vanced](https://github.com/RookieEnough/De-Vanced), built in `arm64-v8a` and `arm-v7a`.
+Patched with [De-Vanced](https://github.com/RookieEnough/De-Vanced). One universal APK covering `arm64-v8a` and `armeabi-v7a`.
 
 ## Installation
 
@@ -13,8 +13,10 @@ Patched with [De-Vanced](https://github.com/RookieEnough/De-Vanced), built in `a
 
 - **Spoof features** — spoofs the device to enable Google Pixel exclusive features, including unlimited storage.
 - **GmsCore support** — lets the patched app run without root, using GmsCore instead of Google Play Services.
+- **Enable DCIM folders backup control** — adds control over which DCIM folders get backed up.
+- **Fix selected account persistence** — keeps the selected account across restarts.
 
-Available but off by default: Change package name, Enable DCIM folders backup control, Fix selected account persistence.
+Available but off by default: Change package name.
 
 ## Disclaimer
 
